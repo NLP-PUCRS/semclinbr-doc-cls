@@ -1,0 +1,14 @@
+datasets==5.0.0
+jsonlines==4.0.0
+transformers==5.13.0
+tokenizers==0.22.2
+numpy==1.26.4
+evaluate==0.4.6
+torch==2.12.1
+accelerate==1.14.0
+optuna==4.9.0
+matplotlib==3.11.0
+scikit-learn==1.9.0
+sentencepiece==0.2.0
+spacy==3.8.16
+wordcloud==1.9.6
