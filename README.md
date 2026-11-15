@@ -59,9 +59,23 @@ Each run writes a timestamped results JSON — cross validation statistics, per 
 
 ## Cite
 
-- Record Type and Medical Specialty Classification of Clinical Notes in Brazilian Portuguese:
+- the paper [Record Type and Medical Specialty Classification of Clinical Notes in Brazilian Portuguese](https://sol.sbc.org.br/index.php/eramiars/article/view/47383) was presented at ERAMIA-RS 2026.
 
 ```bibtex
+@inproceedings{eramiars,
+ author = {Eduardo Vogt Duraes and Christiano Machado Filho and Carlos F. A. Gomes and Lucas Emanuel Silva e Oliveira and Dalvan Griebler},
+ title = {Record Type and Medical Specialty Classification of Clinical Notes in Brazilian Portuguese},
+ booktitle = {{ Anais da II Escola Regional de Aprendizado de Máquina e Inteligência Artificial da Região Sul }},
+ location = {Porto Alegre/RS},
+ year = {2026},
+ keywords = {},
+ issn = {0000-0000},
+ pages = {260--263},
+ publisher = {SBC},
+ address = {Porto Alegre, RS, Brasil},
+ doi = {10.5753/eramiars.2026.35216},
+ url = {https://sol.sbc.org.br/index.php/eramiars/article/view/47383}
+}
 ```
 
 - SemClinBr v2.0 paper:
